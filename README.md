@@ -92,8 +92,8 @@ GET    /categories
 
 ## Deployment
 
-Frontend: https://...
+Frontend: [https://...](https://todo-categories-app-silk.vercel.app/)
 
-Backend: https://...
+Backend: [https://...](https://todo-categories-app.onrender.com)
 
 ---
